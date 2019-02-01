@@ -23,6 +23,8 @@ var sndSuccess = document.createElement('audio');
 sndSuccess.setAttribute('src', '/sounds/success.wav');
 var sndSlide = document.createElement('audio');
 sndSlide.setAttribute('src', '/sounds/slide.wav');
+var sndAHAHAH = document.createElement('audio');
+sndAHAHAH.setAttribute('src', '/sounds/nedry.wav');
 
 function playSound(snd)
 {
