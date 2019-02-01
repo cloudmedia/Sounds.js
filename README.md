@@ -5,3 +5,6 @@ Usage:
 <code>
   playSound(className);
   </code>
+  
+Website Project Page:
+https://code.cloudulus.media/project/101/sounds.js
