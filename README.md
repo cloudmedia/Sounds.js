@@ -3,5 +3,5 @@ Sounds.js is a simple javascript library that preloads sounds to be played on th
 
 Usage:
 <code>
-  playSound(<className>);
+  playSound(className);
   </code>
